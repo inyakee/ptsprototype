@@ -1,4 +1,4 @@
-# Physical Therapy Services Website Redesign
+# Physical Therapy Services Website
 
 Production-ready static HTML/CSS/JavaScript redesign with PHP form processing for Physical Therapy Services in Eugene, Oregon.
 
