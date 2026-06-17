@@ -1,0 +1,7 @@
+Download PHPMailer from https://github.com/PHPMailer/PHPMailer and copy the src folder here:
+
+public_html/backend/phpmailer/src/PHPMailer.php
+public_html/backend/phpmailer/src/SMTP.php
+public_html/backend/phpmailer/src/Exception.php
+
+Then update public_html/backend/smtp-config.php with the production SMTP host, username, password, port, and security mode.
